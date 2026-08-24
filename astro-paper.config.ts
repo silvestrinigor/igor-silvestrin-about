@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://silvestrinigor.github.io",
+    url: "https://astro-paper.pages.dev/",
     title: "AstroPaper",
     description: "A minimal, responsive and SEO-friendly Astro blog theme.",
     author: "Sat Naing",
@@ -23,8 +23,8 @@ export default defineAstroPaperConfig({
     showArchives: true,
     showBackButton: true,
     editPost: {
-      enabled: false,
-      //url: "https://github.com/satnaing/astro-paper/edit/main/",
+      enabled: true,
+      url: "https://github.com/satnaing/astro-paper/edit/main/",
     },
     search: "pagefind",
   },
