@@ -24,7 +24,7 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: false,
-      url: "https://github.com/silvestrinigor/igor-silvestrin-pages/edit/main/",
+      //url: "https://github.com/silvestrinigor/igor-silvestrin-pages/edit/main/",
     },
     search: "pagefind",
   },
