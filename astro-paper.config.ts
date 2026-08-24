@@ -4,9 +4,9 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://silvestrinigor.github.io/",
     title: "Igor Silvestrin Pages",
-    //description: "A minimal, responsive and SEO-friendly Astro blog theme.",
+    description: "TODO: Description 2.",
     author: "Igor da Silva Silvestrin",
-    //profile: "https://satna.ing",
+    profile: "https://todo-profile.ing",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "utc",
