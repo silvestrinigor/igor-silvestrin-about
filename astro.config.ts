@@ -21,6 +21,7 @@ import config from "./astro-paper.config";
 
 export default defineConfig({
   site: config.site.url,
+  base: "/igor-silvestrin-about",
   integrations: [
     mdx(),
     sitemap({
