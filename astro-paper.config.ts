@@ -4,9 +4,9 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://silvestrinigor.github.io/",
     title: "Igor Silvestrin Pages",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
+    //description: "A minimal, responsive and SEO-friendly Astro blog theme.",
     author: "Igor da Silva Silvestrin",
-    profile: "https://satna.ing",
+    //profile: "https://satna.ing",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "utc",
@@ -23,7 +23,7 @@ export default defineAstroPaperConfig({
     showArchives: true,
     showBackButton: true,
     editPost: {
-      enabled: true,
+      enabled: false,
       url: "https://github.com/silvestrinigor/igor-silvestrin-pages/edit/main/",
     },
     search: "pagefind",
