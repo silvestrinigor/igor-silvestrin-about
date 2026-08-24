@@ -31,7 +31,7 @@ export default defineAstroPaperConfig({
   socials: [
     { name: "github",   url: "https://github.com/silvestrinigor" },
     { name: "linkedin", url: "https://www.linkedin.com/in/igor-silvestrin-3b5279221" },
-    { name: "mail",     url: "alarm-plums3j@icloud.com" },
+    { name: "mail",     url: "mailto:alarm-plums3j@icloud.com" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
